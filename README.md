@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumit
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Front-end development
+- 🌱 I’m currently learning ...Full-Stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com/in/b-i-sumit-877b942a2
 - 😄 Pronouns: ... 
